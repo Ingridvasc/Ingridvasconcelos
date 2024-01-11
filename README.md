@@ -6,6 +6,8 @@
 </div>
 <br>
 
+ ##
+ 
 <div style="display: flex; justify-content: space-between;"> <br>
   <img align="left"height="150" alt="coding-time" src="code.gif">
   <img align="center" height="30" width="40" alt="html-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
@@ -16,6 +18,8 @@
   <img align="center" height="30" width="40" alt="css-icon" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/r/r-original.svg">
 </div>
 
+ ##
+ 
   <a href = "mailto:ingridkaroline19@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/ingrid-karoline-vasconcelos-da-silva-18635a230" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
