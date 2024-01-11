@@ -1,4 +1,4 @@
-## Hello People, Ingrid Here!
+## Hello People, Ingrid Aqui!
 
 <div >
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ingridvasc&show_icons=true&theme=great-gatsby&include_all_commits=true&count_private=true"/>
@@ -22,8 +22,5 @@
     </a>
     <a href = "https://www.linkedin.com/in/ingrid-karoline-vasconcelos-da-silva-18635a230/">
       <img width="25" src="linkedin.svg">
-    </a>
-    <a href = "https://www.instagram.com/devparadev/">
-      <img width="25" src="instagram.png">
     </a>
 </div>
